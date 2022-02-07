@@ -11,4 +11,5 @@ En el presente proyecto, se realizo un socket con servidor el cual contiene inte
 
 ![Ventana chat](A2.png)
 
+
 ![Servidor](A3.png)

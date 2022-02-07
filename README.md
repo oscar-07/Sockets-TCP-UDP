@@ -8,8 +8,10 @@ En el presente proyecto, se realizo un socket con servidor el cual contiene inte
 
 ![Configuracion inicial](A1.png)
 
+## Interfaz grafica
 
 ![Ventana chat](A2.png)
 
+## Servidor
 
 ![Servidor](A3.png)
